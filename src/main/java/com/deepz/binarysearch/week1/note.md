@@ -24,7 +24,7 @@ public int bsearch(int l,int r){
 
         while(l < r){
             int mid = l + r >> 1;
-            if(ch``eck(mid)){
+            if(check(mid)){
                 r = mid;
             }else{
                 l = mid + 1;
