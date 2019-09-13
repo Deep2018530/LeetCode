@@ -17,7 +17,7 @@ public class Test1 {
            if (x >= xList.get(0) && x <= xList.get(xList.size()-1) && y >= yList.get(0) && y <= yList.get(yList.size()-1) ){
                return "yes,0";
            }else{
-               dfs(x+1,y+1);
+               //dfs(x+1,y+1);
                return "no,";
            }
     }
