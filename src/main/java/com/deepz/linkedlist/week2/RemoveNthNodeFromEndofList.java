@@ -1,6 +1,4 @@
-package com.deepz.binarysearch.week2;
-
-import java.util.LinkedList;
+package com.deepz.linkedlist.week2;
 
 /**
  * created by zhangdingping on 2019/8/23
