@@ -2,6 +2,10 @@ package com.deepz.linkedlist.leetCode;
 
 import com.deepz.linkedlist.week2.ListNode;
 
+import java.util.ArrayDeque;
+import java.util.Deque;
+import java.util.Queue;
+
 /**
  * created by zhangdingping on 2019/9/29
  * 24 两两交换节点
