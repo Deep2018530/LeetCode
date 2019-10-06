@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf862bb7-8e2c-486f-b243-a352122b8c8f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/ValildateBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/ValildateBinarySearchTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/BinaryTreeMaximumPathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="285">
               <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -70,11 +81,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="938" />
-    <option name="y" value="172" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="910" />
+    <option name="y" value="53" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -84,7 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,7 +174,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,10 +243,10 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="751" y="138" width="782" height="871" extended-state="0" />
+    <frame x="728" y="43" width="783" height="872" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49898168" weight="0.48756906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49898168" visible="true" weight="0.48689654" />
       <window_info id="Structure" order="1" sideWeight="0.50101835" side_tool="true" weight="0.15745856" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -249,7 +260,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33558863" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33513513" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
@@ -511,16 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/BinaryTreeLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -533,8 +534,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/BinaryTreeMaximumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="285">
           <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
