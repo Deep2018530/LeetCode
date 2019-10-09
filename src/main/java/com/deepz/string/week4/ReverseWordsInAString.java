@@ -7,7 +7,6 @@ package com.deepz.string.week4;
 public class ReverseWordsInAString {
 
     private static final char NULL_CHAR = ' ';
-
     public String reverseWords(String s) {
 
         StringBuilder sb = new StringBuilder();
