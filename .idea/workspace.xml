@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf862bb7-8e2c-486f-b243-a352122b8c8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/linkedlist/leetCode/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/linkedlist/leetCode/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/linkedlist/leetCode/SwapNodesInPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/string/week4/ReverseWordsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/string/week4/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/BinaryTreeMaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/ConstructBinaryTreeFromPreorderAndInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/ValildateBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/deepz/tree/week3/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/linkedlist/week2/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/linkedlist/week2/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/deepz/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/deepz/Test1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,19 +18,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/sortmethod/SelectionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/interview/qunaer/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="155">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/sortmethod/BubbleSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/interview/qunaer/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="133">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +86,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/sortmethod/note.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/sortmethod/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/sortmethod/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/interview/qunaer/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/interview/qunaer/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/interview/qunaer/Test2.java" />
       </list>
     </option>
   </component>
@@ -105,9 +99,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="356" />
-    <option name="y" value="172" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="317" />
+    <option name="y" value="182" />
     <option name="width" value="1705" />
     <option name="height" value="1065" />
   </component>
@@ -119,7 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,16 +164,39 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="deepz" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="deepz" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="qunaer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="deepz" type="462c0819:PsiDirectoryNode" />
               <item name="sortmethod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/deepz" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/deepz/string/week4" />
@@ -246,16 +262,26 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf862bb7-8e2c-486f-b243-a352122b8c8f" name="Default Changelist" comment="" />
+      <created>1570506484741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570506484741</updated>
+      <workItem from="1570506488811" duration="17000" />
+      <workItem from="1571112747555" duration="976000" />
+      <workItem from="1571202743308" duration="1369000" />
+      <workItem from="1571208792473" duration="4400000" />
+    </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3491000" />
+    <option name="totallyTimeSpent" value="10253000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="285" y="138" width="1364" height="852" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46551725" weight="0.20137826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46551725" visible="true" weight="0.20259482" />
       <window_info id="Structure" order="1" sideWeight="0.5344828" side_tool="true" weight="0.45517242" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -269,7 +295,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" visible="true" weight="0.45416668" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" visible="true" weight="0.33501005" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.13872255" side_tool="true" weight="0.32897383" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
@@ -602,6 +628,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/sortmethod/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/sortmethod/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -609,10 +642,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/sortmethod/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/interview/qunaer/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="133">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/interview/qunaer/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/interview/qunaer/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
