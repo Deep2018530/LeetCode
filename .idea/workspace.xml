@@ -15,11 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Permutations2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="484">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dp/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-328">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dp/JK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -27,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
+            <state relative-caret-position="2812">
               <caret line="175" column="11" selection-start-line="175" selection-start-column="11" selection-end-line="175" selection-end-column="11" />
             </state>
           </provider>
@@ -36,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
+            <state relative-caret-position="1938">
               <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
               <folding>
                 <element signature="e#5027#5028#0" expanded="true" />
@@ -49,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/DualPivotQuicksort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="110" column="16" lean-forward="true" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
+            <state relative-caret-position="1653">
+              <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -75,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/string/week4/UniqueEmailAddress.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Permutations.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Permutations2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/dp/JK.java" />
       </list>
     </option>
   </component>
@@ -89,11 +108,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1150" />
-    <option name="y" value="6" />
-    <option name="width" value="1610" />
-    <option name="height" value="1400" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1272" />
+    <option name="width" value="1297" />
+    <option name="height" value="1398" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -103,7 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,11 +185,21 @@
               <item name="dfs" type="462c0819:PsiDirectoryNode" />
               <item name="week5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcodeup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="deepz" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,18 +257,19 @@
       <workItem from="1573521186789" duration="108000" />
       <workItem from="1575439921667" duration="399000" />
       <workItem from="1575441541039" duration="1440000" />
-      <workItem from="1576032423515" duration="8476000" />
+      <workItem from="1576032423515" duration="8564000" />
+      <workItem from="1576051755392" duration="504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11884000" />
+    <option name="totallyTimeSpent" value="12476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="920" y="5" width="1288" height="1120" extended-state="0" />
+    <frame x="1018" y="0" width="1037" height="1118" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46551725" weight="0.40325204" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46551725" weight="0.41777325" />
       <window_info id="Structure" order="1" sideWeight="0.5344828" side_tool="true" weight="0.45517242" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -254,13 +283,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" visible="true" weight="0.3117409" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" visible="true" weight="0.42292088" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.13872255" side_tool="true" weight="0.32897383" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.498004" weight="0.23843059" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32984033" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -271,6 +299,7 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Translate" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32984033" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,16 +440,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/DualPivotQuicksort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Permutations2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="110" column="16" lean-forward="true" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
+        <state relative-caret-position="484">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2812">
+          <caret line="175" column="11" selection-start-line="175" selection-start-column="11" selection-end-line="175" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
+        <state relative-caret-position="1938">
           <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
           <folding>
             <element signature="e#5027#5028#0" expanded="true" />
@@ -429,17 +465,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="175" column="11" selection-start-line="175" selection-start-column="11" selection-end-line="175" selection-end-column="11" />
+        <state relative-caret-position="1653">
+          <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Permutations2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dp/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="45" selection-end-column="5" />
+        <state relative-caret-position="-328">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dp/JK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
