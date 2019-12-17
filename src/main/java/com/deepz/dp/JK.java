@@ -120,4 +120,8 @@ public class JK {
         }
         if (j != 0) System.out.println(items[0]);
     }
+
+    public static void test() {
+
+    }
 }
