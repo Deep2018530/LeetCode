@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5497b325-30d8-47f7-afe4-2a9cf2788d4a" name="Default Changelist" comment="" />
+    <list default="true" id="5497b325-30d8-47f7-afe4-2a9cf2788d4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+            <state relative-caret-position="692">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -330,18 +332,18 @@
       <workItem from="1576051755392" duration="2876000" />
       <workItem from="1576465614138" duration="2833000" />
       <workItem from="1576557030328" duration="3320000" />
-      <workItem from="1576644028845" duration="996000" />
+      <workItem from="1576644028845" duration="1277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21997000" />
+    <option name="totallyTimeSpent" value="22278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46551725" visible="true" weight="0.19361277" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46551725" visible="true" weight="0.19361277" />
       <window_info id="Structure" order="1" sideWeight="0.5344828" side_tool="true" weight="0.45517242" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -573,8 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        <state relative-caret-position="692">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
         </state>
       </provider>
     </entry>

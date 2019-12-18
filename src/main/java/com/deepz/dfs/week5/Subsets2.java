@@ -43,7 +43,7 @@ public class Subsets2 {
             path.push(nums[p]);
         }
 
-        for (int i = 0; i < k; i++) {
+        for (int i = 0; i <= k; i++) {
             path.pop();
         }
 
