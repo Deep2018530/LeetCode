@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5497b325-30d8-47f7-afe4-2a9cf2788d4a" name="Default Changelist" comment="" />
+    <list default="true" id="5497b325-30d8-47f7-afe4-2a9cf2788d4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            <state relative-caret-position="361">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/NQueens2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -56,8 +58,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dp/JK.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/NQueens2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java" />
       </list>
     </option>
   </component>
@@ -72,9 +74,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1193" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1016" />
+    <option name="y" value="10" />
     <option name="width" value="1355" />
     <option name="height" value="1400" />
   </component>
@@ -86,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,6 +166,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,18 +243,19 @@
       <workItem from="1576465614138" duration="2833000" />
       <workItem from="1576557030328" duration="3320000" />
       <workItem from="1576644028845" duration="1607000" />
-      <workItem from="1576645646633" duration="3925000" />
+      <workItem from="1576645646633" duration="3958000" />
+      <workItem from="1576650500341" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26533000" />
+    <option name="totallyTimeSpent" value="26608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="955" y="25" width="1084" height="1120" extended-state="0" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46551725" weight="0.4405458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46551725" visible="true" weight="0.26297405" />
       <window_info id="Structure" order="1" sideWeight="0.5344828" side_tool="true" weight="0.45517242" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -266,7 +269,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" visible="true" weight="0.29352227" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" visible="true" weight="0.3028169" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.13872255" side_tool="true" weight="0.32897383" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
@@ -513,17 +516,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/NQueens2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/NQueens2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="361">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
         </state>
       </provider>
     </entry>

@@ -24,15 +24,9 @@ import java.util.*;
 public class CombinationSum3 {
 
     List<List<Integer>> ans = new ArrayList<>();
-    Stack<Integer> path = new Stack<>();
 
-    //本来用的Stack（dfs中的方法没有判断k<0,只有n<0),结果2ms，打败30%多。
-    //后来郁闷看题解，看到有说Deque好，我就换成了(Deque),结果1ms了。
-    //Deque<Integer> path = new ArrayDeque<>();
-
-    //不过再后来，我又想了下，可以加个剪枝条件(k<0),因为k<0也没必要递归下去了，然后继续使用Stack，结果1ms。
-    //说明剪枝条件也挺重要，不过同样条件下，Deque比Stack性能好貌似，回头研究下，有大佬明白也可以留言指教下哈~嘿嘿
-
+    // 尽量不要使用遗留类Stack,Deque完成可以实现栈
+    Deque<Integer> path = new ArrayDeque<>();
 
     /**
      * 整体思路
