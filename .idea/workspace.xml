@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5497b325-30d8-47f7-afe4-2a9cf2788d4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/dfs/week5/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/dfs/week5/Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/sortmethod/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/sortmethod/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/deepz/string/week4/CompareVersionNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/deepz/string/week4/CompareVersionNumbers.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,126 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Permutations2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/WordSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/LetterCombinationsOfAPhoneNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dp/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dp/JK.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2071">
-              <caret line="125" column="5" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
-              <folding>
-                <element signature="method#knapsack2#0;class#JK#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/note.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="323">
-                <caret line="17" selection-start-line="17" selection-end-line="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
-              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="49" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2812">
-              <caret line="175" column="11" selection-start-line="175" selection-start-column="11" selection-end-line="175" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1919">
-              <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
-              <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/DualPivotQuicksort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1653">
-              <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
+            <state relative-caret-position="716">
+              <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -164,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dp/JK.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java" />
       </list>
     </option>
   </component>
@@ -178,10 +67,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1200" />
-    <option name="y" value="32" />
-    <option name="width" value="1300" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1093" />
+    <option name="y" value="2" />
+    <option name="width" value="1299" />
     <option name="height" value="1400" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -192,7 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -271,6 +159,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Subsets2">
     <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.deepz.dfs.week5.Permutations" />
       <module name="leetcode-up" />
@@ -306,8 +195,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Subsets2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deepz.dfs.week5.Subsets2" />
+      <module name="leetcode-up" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.deepz.dfs.week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subsets2" />
         <item itemvalue="Application.Permutations" />
       </list>
     </recent_temporary>
@@ -332,18 +235,19 @@
       <workItem from="1576051755392" duration="2876000" />
       <workItem from="1576465614138" duration="2833000" />
       <workItem from="1576557030328" duration="3320000" />
-      <workItem from="1576644028845" duration="1277000" />
+      <workItem from="1576644028845" duration="1607000" />
+      <workItem from="1576645646633" duration="3478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22278000" />
+    <option name="totallyTimeSpent" value="26086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46551725" visible="true" weight="0.19361277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46551725" visible="true" weight="0.23852295" />
       <window_info id="Structure" order="1" sideWeight="0.5344828" side_tool="true" weight="0.45517242" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -353,11 +257,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.37424546" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38832998" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44668007" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" weight="0.27665997" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" weight="0.19517103" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.13872255" side_tool="true" weight="0.32897383" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
@@ -394,6 +298,30 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcodeup$Permutations.ic" NAME="Permutations Coverage Results" MODIFIED="1576034292631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -503,7 +431,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Permutations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="399">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -528,19 +456,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
+        <state relative-caret-position="931">
           <caret line="49" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -557,7 +475,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1919">
+        <state relative-caret-position="1938">
           <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
           <folding>
             <element signature="e#5027#5028#0" expanded="true" />
@@ -575,8 +493,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/Subsets2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        <state relative-caret-position="693">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dfs/week5/CombinationSum3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
         </state>
       </provider>
     </entry>

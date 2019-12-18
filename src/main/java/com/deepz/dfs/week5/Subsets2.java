@@ -48,4 +48,12 @@ public class Subsets2 {
         }
 
     }
+
+    public static void main(String[] args) {
+        int[] nums = new int[]{1, 2, 2};
+        Subsets2 s = new Subsets2();
+        List<List<Integer>> lists = s.subsetsWithDup(nums);
+        System.out.println(lists.toString());
+
+    }
 }
