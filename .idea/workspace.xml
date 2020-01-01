@@ -73,8 +73,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_20/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="668">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+=======
             <state relative-caret-position="132">
               <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+>>>>>>> fc4eab256996962dbbf5ae06d15e215c628e9a26
             </state>
           </provider>
         </entry>
@@ -135,11 +140,19 @@
       <select />
     </treeState>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1087" />
+    <option name="y" value="92" />
+    <option name="width" value="1299" />
+    <option name="height" value="1409" />
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="557" />
     <option name="y" value="16" />
     <option name="width" value="1344" />
     <option name="height" value="1078" />
+>>>>>>> fc4eab256996962dbbf5ae06d15e215c628e9a26
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -320,15 +333,23 @@
       <workItem from="1577159756690" duration="5727000" />
       <workItem from="1577248710142" duration="633000" />
       <workItem from="1577330392153" duration="8439000" />
-      <workItem from="1577412697888" duration="1883000" />
+      <workItem from="1577412697888" duration="2011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43910000" />
+    <option name="totallyTimeSpent" value="44038000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="870" y="74" width="1039" height="1127" extended-state="0" />
+=======
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+<<<<<<< HEAD
+=======
+>>>>>>> fc4eab256996962dbbf5ae06d15e215c628e9a26
+    <editor active="true" />
+>>>>>>> 7a4070e34e22f83e6d97cc84a817babcfd70c765
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46551725" weight="0.32940018" />
       <window_info id="Structure" order="1" sideWeight="0.5344828" side_tool="true" weight="0.45517242" />
@@ -377,7 +398,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" visible="true" weight="0.3316583" />
+=======
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.86127746" visible="true" weight="0.3346856" />
+>>>>>>> fc4eab256996962dbbf5ae06d15e215c628e9a26
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.13872255" side_tool="true" weight="0.32897383" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
@@ -685,6 +710,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/week6/TwoSumInputArrayIsSorted.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="668">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+=======
         <state relative-caret-position="741">
           <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
         </state>
@@ -746,6 +775,7 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> fc4eab256996962dbbf5ae06d15e215c628e9a26
         </state>
       </provider>
     </entry>
