@@ -1,16 +1,13 @@
-package com.deepz.race;
+package com.deepz.offer;
 
-import com.deepz.linkedlist.week2.ListNode;
+import java.util.ArrayDeque;
+import java.util.Deque;
 
-import java.util.*;
-
-
-class Test2 {
-
-    public static void main(String[] args) {
-        Test2 test2 = new Test2();
-        System.out.println(test2.movingCount(5, 10, 10));
-    }
+/**
+ * created by zhangdingping on 2020/1/17
+ * 机器人的运动范围
+ */
+public class RangeOfMotionOfRobot {
 
     public int movingCount(int threshold, int rows, int cols) {
         int ans = 0;
@@ -56,6 +53,4 @@ class Test2 {
 
         return res;
     }
-
-
 }
