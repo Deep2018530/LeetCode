@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2be3f317-eaed-4e13-a16a-c476de158829" name="Default Changelist" comment="" />
+    <list default="true" id="2be3f317-eaed-4e13-a16a-c476de158829" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/deepz/race/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/deepz/race/Test2.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,10 +32,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/offer/CountOneOfNums.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/offer/IntegerPowerOfValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="171">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -64,10 +66,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dp/week8/UniquePathTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/dp/week8/DecodeWays.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/offer/Nextnodeofbinarytree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/deepz/race/Test2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/offer/RangeOfMotionOfRobot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/offer/CutRope.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/deepz/offer/CountOneOfNums.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/race/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/deepz/offer/IntegerPowerOfValue.java" />
       </list>
     </option>
   </component>
@@ -83,8 +86,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="963" />
-    <option name="y" value="23" />
+    <option name="x" value="1050" />
+    <option name="y" value="157" />
     <option name="width" value="1215" />
     <option name="height" value="1090" />
   </component>
@@ -156,6 +159,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="deepz" type="462c0819:PsiDirectoryNode" />
+              <item name="race" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="deepz" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -213,10 +226,10 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="771" y="19" width="972" height="872" extended-state="0" />
+    <frame x="840" y="126" width="972" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.57986873" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3654267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -225,12 +238,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4463807" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.91018766" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32567567" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40482575" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4189189" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4155496" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329235" />
@@ -294,7 +307,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/deepz/race/Test2.java</url>
-          <line>60</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -474,17 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/race/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/dp/week8/DecodeWays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -509,10 +511,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/race/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/offer/CountOneOfNums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="228">
+          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/deepz/offer/IntegerPowerOfValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
