@@ -12,29 +12,31 @@ class Test2 {
     public static void main(String[] args) {
 
         Test2 test2 = new Test2();
-        TreeNode node = new TreeNode(-1);
-        node.left = new TreeNode(-2);
-        delete(node);
-        System.out.println(node.left);
+        TreeNode root = new TreeNode(10);
+        root.left = new TreeNode(5);
+        root.right = new TreeNode(12);
+        root.left.left = new TreeNode(4);
+        root.left.right = new TreeNode(7);
+        test2.FindPath(root, 22);
 
     }
 
-    private static void delete(TreeNode node) {
-        node.left = null;
+    ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
+    ArrayList<Integer> path = new ArrayList<>();
+
+    public ArrayList<ArrayList<Integer>> FindPath(TreeNode root, int target) {
+        dfs(root, target);
+        return ans;
     }
 
-    public List<String> printVertically(String s) {
-        String[] split = s.split("\\s+");
-        int maxLen = 0;
+    private void dfs(TreeNode node, int target) {
+        if (node == null) return;
+        path.add(node.val);
 
-        for (int i = 0; i < split.length; i++) {
-            maxLen = Math.max(maxLen, split[i].length());
-        }
+        if (node.left == null && node.right == null && target - node.val == 0) ans.add(new ArrayList<>(path));
 
-        char[][] a = new char[split.length][maxLen];
-
-
-
-        return null;
+        dfs(node.left, target - node.val);
+        dfs(node.right, target - node.val);
+        path.remove(path.size() - 1);
     }
 }
