@@ -4,39 +4,43 @@ package com.deepz.race;
 import com.deepz.linkedlist.TreeNode;
 import com.deepz.linkedlist.week2.ListNode;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 class Test2 {
 
     public static void main(String[] args) {
 
         Test2 test2 = new Test2();
-        TreeNode root = new TreeNode(10);
-        root.left = new TreeNode(5);
-        root.right = new TreeNode(12);
-        root.left.left = new TreeNode(4);
-        root.left.right = new TreeNode(7);
-        test2.FindPath(root, 22);
 
     }
 
-    ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
-    ArrayList<Integer> path = new ArrayList<>();
-
-    public ArrayList<ArrayList<Integer>> FindPath(TreeNode root, int target) {
-        dfs(root, target);
-        return ans;
+    Set<String> ans = new HashSet<>();
+    int len;
+    boolean[] visit;
+    public ArrayList<String> Permutation(String str) {
+        len = str.length();
+        visit = new boolean[len];
+        dfs(str,0,new StringBuffer());
+        ArrayList<String> res = new ArrayList<>(ans);
+        Collections.sort(res);
+        return res;
     }
 
-    private void dfs(TreeNode node, int target) {
-        if (node == null) return;
-        path.add(node.val);
+    private void dfs(String str, int k , StringBuffer sb) {
+        if (k >= len) {
+            ans.add(sb.toString());
+            return;
+        }
 
-        if (node.left == null && node.right == null && target - node.val == 0) ans.add(new ArrayList<>(path));
+        for (int i = 0; i < len; i++) {
+            if (!visit[i]){
+                visit[i] = true;
+                sb.append(str.charAt(i));
+                dfs(str,k + 1,sb);
+                sb.deleteCharAt(sb.length() - 1);
+                visit[i] = false;
+            }
+        }
 
-        dfs(node.left, target - node.val);
-        dfs(node.right, target - node.val);
-        path.remove(path.size() - 1);
     }
 }
